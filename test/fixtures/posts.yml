@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+published:
+  subject: Some article
+  body: A test article
+  published: true
+
+nonpublished:
+  body: Still writing this one
+  
+one:
+    body: MyText
+    name: MyString
+    post: published
+
+two:
+    body: MyText
+    name: MyString
+    post: published
